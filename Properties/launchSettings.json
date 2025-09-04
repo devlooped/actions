@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "which-dotnet.cs": {
+      "commandName": "Project",
+      "workingDirectory": "."
+    },
+    "hello.cs": {
+      "commandName": "Project"
+    }
+  }
+}
